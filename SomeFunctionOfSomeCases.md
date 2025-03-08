@@ -6,18 +6,18 @@ Dokumen ini berisi berbagai fungsi dalam PHP yang dapat digunakan untuk berbagai
 ## 📌 Daftar Isi
 
 0. [🎤 Handling Terminal Input in PHP](#-handling-terminal-input-in-php)
-1. [📌 Penjumlahan Function](#penjumlahan-function)
-2. [🔠 Hitung Jumlah Karakter yang Sama](#hitung-jumlah-karakter-yang-sama)
-3. [📝 Custom Format Array](#custom-format-array)
-4. [📌 Pisah Angka Genap & Ganjil dalam Array](#pisah-angka-genap--ganjil-dalam-array)
-5. [🍽️ Menambahkan List Menu Makanan](#menambahkan-list-menu-makanan)
-6. [🍽️ Mengatur Harga Menu](#mengatur-harga-menu)
-7. [🍽 Order Menu](#order-menu)
-8. [📌 Cek Umur & Hari Lahir](#cek-umur--hari-lahir)
-9. [🎂 Cek Berapa Bulan & Hari Lagi Ultah Serta Hari Ultahnya](#cek-berapa-bulan--hari-lagi-ultah-serta-hari-ultahnya)
-10. [⏰ Cek Waktu Antar Negara](#cek-waktu-antar-negara)
-11. [🏷️ Cek Harga Setelah Diskon](#cek-harga-setelah-diskon)
-12. [💰 Currency Converter Function in PHP](#currency-converter-function-in-php)
+1. [📌 Penjumlahan Function](#-penjumlahan-function)
+2. [🔠 Hitung Jumlah Karakter yang Sama](#-hitung-jumlah-karakter-yang-sama)
+3. [📝 Custom Format Array](#-custom-format-array)
+4. [📌 Pisah Angka Genap & Ganjil dalam Array](#-pisah-angka-genap--ganjil-dalam-array)
+5. [🍽️ Menambahkan List Menu Makanan](#-menambahkan-list-menu-makanan)
+6. [🍽️ Mengatur Harga Menu](#-mengatur-harga-menu)
+7. [🍽 Order Menu](#-order-menu)
+8. [📌 Cek Umur & Hari Lahir](#-cek-umur--hari-lahir)
+9. [🎂 Cek Berapa Bulan & Hari Lagi Ultah Serta Hari Ultahnya](#-cek-berapa-bulan--hari-lagi-ultah-serta-hari-ultahnya)
+10. [⏰ Cek Waktu Antar Negara](#-cek-waktu-antar-negara)
+11. [🏷️ Cek Harga Setelah Diskon](#-cek-harga-setelah-diskon)
+12. [💰 Currency Converter Function in PHP](#-currency-converter-function-in-php)
 
 ---
 ---
